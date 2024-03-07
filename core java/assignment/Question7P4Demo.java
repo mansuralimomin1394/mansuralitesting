@@ -26,7 +26,7 @@ public class Question7P4Demo
 			}
 			System.out.println();
 		}
-		for(i=n-(n-i);i>=1;i-=2)
+		for(i=i;i>=1;i-=2)
 		{
 			for(k=i;k<=n;k+=2)
 			{
